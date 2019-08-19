@@ -1,3 +1,5 @@
 Rencana Rama setelah kuliah
 -Kerja di startup/membuat startup
+ *Webiste template
+ *Keamanan komputer
 -Membuat distro linux bernama BATIX
