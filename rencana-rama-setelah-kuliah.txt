@@ -7,3 +7,4 @@ Rencana Rama setelah kuliah
  *Keamanan komputer
 -Membuat distro linux bernama BATIX
 -Mendirikan sekolah koding
+-Mengembangkan bahasa BAIK
