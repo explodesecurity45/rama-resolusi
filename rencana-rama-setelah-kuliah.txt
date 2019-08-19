@@ -1,6 +1,9 @@
 Rencana Rama setelah kuliah
 -Kerja di startup/membuat startup
  *Webiste template
+  ^template web
+  ^template photoshop
+  ^template power point
  *Keamanan komputer
 -Membuat distro linux bernama BATIX
 -Mendirikan sekolah koding
